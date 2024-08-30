@@ -6,7 +6,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 30 thousand members. It's a place where people help each other out.
 
 Tech Stack:
-1.Next.js
+ **Feature 1:** Next.js
 2.TypeScript
 3.Clerk
 4.getstream
