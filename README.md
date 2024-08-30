@@ -1,3 +1,4 @@
+![AI Image](public/zoomproject.png)
 # A Zoom Clone
 ---
 
